@@ -1,2 +1,1 @@
 Acquire::http { Proxy "http://yaasita.net:3142"; };
-
